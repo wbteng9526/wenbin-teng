@@ -1,39 +1,11 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/wbteng9526/wbteng.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a prospective graduate student in major in computer science. My research interest lies at the intersection of computer vision and deep learning, especially in facial image analysis and application including face recongnition, 3D face reconstruction and face anti-spoofing. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I graduated from Boston University with a Bachelor's degree in Statistics. During my undergraduate program, I was fortunate to conduct my research under the supervision of [Allen G. Harbaugh-Schattenkirk](http://www.longwood.edu/directory/profile/harbaughaglongwoodedu/). I have worked as a research intern with Prof. [Allan Yuille](https://www.cs.jhu.edu/~ayuille/) and Dr. [Adam Kortylewski](https://adamkortylewski.com/) at Johns Hopkins University. I am also fortunate to work with Prof. [Bernardo Cuenca Grau](https://www.cs.ox.ac.uk/people/bernardo.cuencagrau/) from University of Oxford and Dr. [Chongyang Bai](https://www.cs.dartmouth.edu/~cy/) from Dartmouth College.
 
-I graduated from Boston University with a Bachelor's degree in Statistics.
+## Recent News
 
-### Markdown
+- Oct. 2021: Our paper on Unimodal Face Classification with Multimodal Training is accepted by FG 2021
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wbteng9526/wbteng.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Research
