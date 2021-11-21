@@ -1,5 +1,3 @@
-<img align="left" src="images/1.jpg" width="300">
-
 ## About me
 
 I'm a prospective graduate student major in computer science. My research interest lies at the intersection of computer vision and deep learning, especially in facial image analysis and application including face recongnition, 3D face reconstruction and face anti-spoofing. 
