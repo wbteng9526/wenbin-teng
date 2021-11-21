@@ -1,37 +1,43 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+
   <head>
-    <meta charset="UTF-8">
+    <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
 {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
     {% include head-custom.html %}
   </head>
+
   <body>
-    <div class="wrapper">
-      <header class="page-header"  
-        role="banner">
-      <h1 class="project-name">Wenbin Teng</h1>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="page-header"  
+          role="banner">
+        <h1 class="project-name">Wenbin Teng (滕文彬)</h1>
       <bt>
         <p class="external">
           <a href="mailto:jerryteng95626@gmail.com">Email</a> &bull; <a href="docs/Teng%2C%20Wenbin_Resume.pdf">Resume</a> &bull; <a href="https://github.com/wbteng9526">GitHub</a> &bull; <a href="https://www.linkedin.com/in/wenbin-teng/">LinkedIn</a>
         </p>
         <div id="sidebar"><img src="images/1.jpg" id="me" width="300" itemprop="photo"></div>
       </header>
-      <section>
+    </div>
 
-      {{ content }}
-
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
       </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
       <footer class="site-footer">
         &copy; 2021 Wenbin Teng
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
