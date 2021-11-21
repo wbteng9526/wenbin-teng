@@ -11,5 +11,5 @@ I graduated from Boston University with a Bachelor's degree in Statistics. Durin
 ## Research
 
 **Unimodel Face Classification with Multimodal Training**
-<br/>**Wenbin Teng**, Chongyang Bai
-Accepted by _IEEE International Conference on Automatic Face and Gesture Recognition 2021_</br>
+<br/>**Wenbin Teng**, Chongyang Bai</br>
+<br/>Accepted by _IEEE International Conference on Automatic Face and Gesture Recognition 2021_</br>
