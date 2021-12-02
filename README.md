@@ -17,4 +17,4 @@ I graduated from Boston University with a Bachelor's degree in Statistics. Durin
 
 **Adversarial Attack and Defense on Rendering Autoencoder of Faces**
 <br>**Wenbin Teng**
-<br>\[[Code](Coming Soon)\] \[Paper(Coming Soon)\]
+<br>\[[Code](https://github.com/wbteng9526/mofa_attack)\] \[[Paper(https://github.com/wbteng9526/mofa_attack/blob/main/document/Adversarial%20Attacks%20and%20Defense%20on%20Rendering-Autoencoder%20of%20Faces.pdf)]\]
