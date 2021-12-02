@@ -6,7 +6,7 @@ I graduated from Boston University with a Bachelor's degree in Statistics. Durin
 
 ## Recent News
 
-- Oct. 2021: Our paper on Unimodal Face Classification with Multimodal Training is accepted by FG 2021
+- Oct. 2021: Our paper on Unimodal Face Classification with Multimodal Training is accepted by _IEEE International Conference On Automatic Face and Gesture Recognition 2021_
 
 ## Research
 
