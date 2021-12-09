@@ -12,9 +12,9 @@ I graduated from Boston University with a Bachelor's degree in Statistics. Durin
 
 **Unimodel Face Classification with Multimodal Training**
 <br>**Wenbin Teng**, Chongyang Bai <br> Accepted by _IEEE International Conference on Automatic Face and Gesture Recognition 2021_
-<br>\[[Code](https://github.com/wbteng9526/mtut_fr)\] \[Paper(Comming Soon)\] \[[Poster](docs/FG2021_Poster.pdf)\]
+<br>\[[Code](https://github.com/wbteng9526/mtut_fr)\] \[[Paper](https://arxiv.org/pdf/2112.04182.pdf)\] \[[Poster](docs/FG2021_Poster.pdf)\]
 
 
 **Adversarial Attack and Defense on Rendering Autoencoder of Faces**
 <br>**Wenbin Teng**
-<br>\[[Code](https://github.com/wbteng9526/mofa_attack)\] \[[Paper](https://github.com/wbteng9526/mofa_attack/blob/main/document/Adversarial%20Attacks%20and%20Defense%20on%20Rendering-Autoencoder%20of%20Faces.pdf)\]
+<br>\[[Code](https://github.com/wbteng9526/mofa_attack)\] \[[Paper](https://github.com/wbteng9526/mofa_attack/blob/main/document/paper.pdf)\]
